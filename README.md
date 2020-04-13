@@ -1,5 +1,5 @@
 # logo_voila
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anniejoan/logo.git/commit?filepath=https%3A%2F%2Fgithub.com%2FAnniejoan%2Flogo%2Fblob%2Fmaster%2Fbrand_logo_detector.ipynb)
 
 Demo bear classifier with fastai and Voila
